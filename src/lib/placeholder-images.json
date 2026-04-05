@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image-1",
+      "description": "An official government officer at his desk.",
+      "imageUrl": "https://picsum.photos/seed/officer/800/600",
+      "imageHint": "government officer"
+    },
+    {
+      "id": "complaint-map-1",
+      "description": "An overhead view of a city map with streets and buildings.",
+      "imageUrl": "https://picsum.photos/seed/citymap/1200/800",
+      "imageHint": "city map"
+    },
+    {
+      "id": "complaint-image-1",
+      "description": "A pothole on a city street.",
+      "imageUrl": "https://picsum.photos/seed/pothole/400/300",
+      "imageHint": "pothole road"
+    },
+    {
+      "id": "feature-1",
+      "description": "An official government document with a stamp.",
+      "imageUrl": "https://picsum.photos/seed/document/500/500",
+      "imageHint": "official document"
+    },
+    {
+      "id": "feature-2",
+      "description": "An image of a grand, official government building.",
+      "imageUrl": "https://picsum.photos/seed/govbuilding/500/500",
+      "imageHint": "government building"
+    },
+    {
+      "id": "feature-3",
+      "description": "A diverse group of people in a community meeting setting.",
+      "imageUrl": "https://picsum.photos/seed/community/500/500",
+      "imageHint": "community meeting"
+    },
+    {
+      "id": "cta-background",
+      "description": "A wide shot of the Indian Parliament building.",
+      "imageUrl": "https://picsum.photos/seed/parliament/1600/900",
+      "imageHint": "indian parliament"
+    }
+  ]
+}
